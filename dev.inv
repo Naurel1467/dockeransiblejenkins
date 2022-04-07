@@ -1,2 +1,3 @@
-[dev]
-172.19.227.11
+ [dev]
+172.19.227.11 ansible_python_interpreter=/usr/bin/python3.6
+ 
